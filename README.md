@@ -1,4 +1,4 @@
-# **Course Title**<br/>by **Course Author**
+# **Intro to Programming**<br/>by **Adam Tokarsky**
 
 Specs deadline: YYYY-MM-DD
 
@@ -15,12 +15,16 @@ please speak with your Curriculum Lead.*
 ## Step 1: Brainstorming
 
 ### 1. What problem(s) will students learn how to solve?
+Students will learn how to perform computations of varying difficulty and basic concepts for automating complex tasks.
 
 ### 2. What techniques or concepts will students learn?
+Students will learn very basic computer science fundamentals and programming basics.
 
 ### 3. What technologies, packages, or functions will students use?
+Python 3 will be used in this course, with very basic packages like math and random being introduced.
 
 ### 4. What terms or jargon will you define?
+Terms such as functions, variables, loops, and packages will be covered and defined throughout the course, among others.
 
 ### 5. What analogies or heuristics will you use?
 
