@@ -1,4 +1,4 @@
-title: Course Title Here
-description: A description of the course.
+title: Intro to Programming
+description: A course intended for those who have no experience programming
 programming_language: python
 from: python-base-prod:21
